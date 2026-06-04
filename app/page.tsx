@@ -26,7 +26,7 @@ export default function HomePage() {
                 Cookies &amp; Shakes
                 <span className="block text-pink-300">Made with Love</span>
               </h1>
-              <p className="text-brown-200 text-lg lg:text-xl leading-relaxed mb-8 max-w-lg">
+              <p style={{ color: "#211c18" }} className="text-brown-200 text-lg lg:text-xl leading-relaxed mb-8 max-w-lg">
                 Indulge in our freshly baked cookies and hand-crafted milkshakes. Made from scratch every morning with premium ingredients and delivered warm to your door.
               </p>
               <div className="flex flex-wrap gap-4">
