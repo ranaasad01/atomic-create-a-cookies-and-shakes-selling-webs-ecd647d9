@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, Star, ShoppingCart, Plus, Minus, Check } from "lucide-react";
+import { ArrowLeft, Star, ShoppingCart, Plus, Minus, Check } from 'lucide-react';
 import { products } from "@/lib/data";
 import { useCart } from "@/context/CartContext";
 import { Product } from "@/lib/types";
