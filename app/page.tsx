@@ -22,7 +22,7 @@ export default function HomePage() {
                 <Cookie className="w-4 h-4" />
                 Freshly Baked Daily for you 
               </span>
-              <h1 className="font-display text-5xl lg:text-6xl xl:text-7xl font-extrabold leading-tight mb-6">
+              <h1 style={{ backgroundColor: "#000000", color: "#e71d1d" }} className="font-display text-5xl lg:text-6xl xl:text-7xl font-extrabold leading-tight mb-6">
                 Cookies &amp; Shakes
                 <span className="block text-pink-300">Made with Love</span>
               </h1>
