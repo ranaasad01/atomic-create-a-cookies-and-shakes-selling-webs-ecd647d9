@@ -20,7 +20,7 @@ export default function HomePage() {
             <div>
               <span style={{ fontFamily: "Inter", fontSize: "22px" }} className="inline-flex items-center gap-2 bg-pink-500/20 text-pink-300 text-sm font-semibold px-4 py-2 rounded-full mb-6 border border-pink-500/30">
                 <Cookie className="w-4 h-4" />
-                Freshly Baked Daily 
+                Freshly Baked Daily for you  
               </span>
               <h1 style={{ backgroundColor: "#000000", color: "#e71d1d" }} className="font-display text-5xl lg:text-6xl xl:text-7xl font-extrabold leading-tight mb-6">
                 Cookies &amp; Shakes
