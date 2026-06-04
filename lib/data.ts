@@ -9,7 +9,7 @@ export const products: Product[] = [
       "Baked fresh every morning, our Classic Chocolate Chip cookie is the one that started it all. We use only the finest Belgian chocolate chips folded into a buttery, brown-sugar dough that bakes up perfectly crispy on the edges and irresistibly gooey in the center. Every bite is pure nostalgia.",
     price: 3.5,
     category: "cookies",
-    image: "https://freshaprilflours.com/wp-content/uploads/2020/12/classic-ccc-RECIPE-CARD.jpg",
+    image: "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/assets/ecd647d9-3fb2-4586-92f8-f7b33ba2a044/6006deb4ab1f45be9b06d30c7ed9b2ef.png",
     badge: "Bestseller",
     rating: 4.9,
     reviewCount: 312,

@@ -18,7 +18,7 @@ export default function HomePage() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <span className="inline-flex items-center gap-2 bg-pink-500/20 text-pink-300 text-sm font-semibold px-4 py-2 rounded-full mb-6 border border-pink-500/30">
+              <span style={{ fontFamily: "Inter", fontSize: "22px" }} className="inline-flex items-center gap-2 bg-pink-500/20 text-pink-300 text-sm font-semibold px-4 py-2 rounded-full mb-6 border border-pink-500/30">
                 <Cookie className="w-4 h-4" />
                 Freshly Baked Daily for you 
               </span>
